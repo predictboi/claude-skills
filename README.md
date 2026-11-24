@@ -5,7 +5,7 @@ PPT, design and review skills for Claude Code, collected in one place so every p
 | Group | Skills |
 |---|---|
 | Slides | ppt-master |
-| Design | frontend-design, impeccable, hallmark, emil-design-eng, redesign-existing-projects, brand-identity, diagram-design, antislop, antislop-ui, antislop-layoutmobile, antislop-human, antislop-copywriting, antislop-code |
+| Design | frontend-design, taste-skill, impeccable, hallmark, emil-design-eng, redesign-existing-projects, brand-identity, logo-design, diagram-design, antislop, antislop-ui, antislop-layoutmobile, antislop-human, antislop-copywriting, antislop-code |
 | Review | ui-review-loop, break-ui, web-design-guidelines, review-animations, security-audit |
 
 ## Install
